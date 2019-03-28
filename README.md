@@ -1,1 +1,1 @@
-# Frankfurt-Stock-Exchange-EDA
+This repository analyzes stock data of a company called Carl Zeiss Meditec as described in the Frankfurt Stock Exchange (FSE). The data exists on the Quandl website so I use an API to pull it for analysis. The analysis proceeds with getting some useful stock data such as highest and lowest opening prices, changes between various time periods, and volumes traded. 
